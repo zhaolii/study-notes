@@ -1,5 +1,7 @@
-# gitbook的安装与使用
-  针对Mac环境
+> 针对Mac环境
+
+## gitbook的安装与使用
+
   * 安装node.js
 
     在node.js官网下载，直接安装。下载地址：https://nodejs.org/en/。
